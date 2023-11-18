@@ -20,7 +20,7 @@ The **Directory Content Exporter** is a Python tool that allows you to export th
 1. Clone the repository or download the source code.
 
 ```bash
-git clone https://github.com/your-username/directory-content-exporter.git
+git clone https://github.com/ImAbuSayed/directory-content-exporter.git
 ```
 
 2. Open a terminal or command prompt and navigate to the project directory.
