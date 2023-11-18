@@ -1,5 +1,7 @@
 # Directory Content Exporter
 
+![Directory Content Exporter GUI v.2 ](https://files.taskade.com/attachments/69ee0024-a152-475c-833f-42bde16a9886/original/Screenshot%202023-11-18%20004057.png)
+
 The **Directory Content Exporter** is a Python tool that allows you to export the contents of a directory and its files into a text file or a PDF document. It provides a simple graphical user interface (GUI) built using the Tkinter library.
 
 ## Features
@@ -8,6 +10,11 @@ The **Directory Content Exporter** is a Python tool that allows you to export th
 - Choose the output format as either a text file or a PDF document.
 - Export the directory and its files to the selected output format.
 - Display the exported content in the GUI.
+  
+### Features Update
+- 18/11/23
+  -- Added Progress Bar on the GUI
+  -- Added Exluded Options ( May not work Properly )
 
 ## Prerequisites
 
@@ -43,7 +50,7 @@ python main.py
 
 5. The application window will open.
 
-![Directory Content Exporter GUI](https://files.taskade.com/attachments/2b7691f8-480c-4dce-ae98-78a4875657a6/original/Screenshot%202023-11-18%20004057.png)
+![Directory Content Exporter GUI v.1 ](https://files.taskade.com/attachments/2b7691f8-480c-4dce-ae98-78a4875657a6/original/Screenshot%202023-11-18%20004057.png)
 
 6. Select the directory you want to export by clicking the "Browse" button and navigating to the desired directory.
 
