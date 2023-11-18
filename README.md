@@ -66,3 +66,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## Credits
 
 This project was created by [Abu Sayed](https://github.com/ImAbuSayed).
+
+## Update
+
+PDF Option is under development mode. ( This might not work properly )
