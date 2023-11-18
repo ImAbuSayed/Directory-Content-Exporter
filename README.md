@@ -38,7 +38,7 @@ pip install -r requirements.txt
 4. Run the Python script.
 
 ```bash
-python directory_content_exporter.py
+python main.py
 ```
 
 5. The application window will open.
