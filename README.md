@@ -19,7 +19,7 @@ The **Directory Content Exporter** is a Python tool that allows you to export th
 ## Prerequisites
 
 - Python 3.12.x installed on your system.
-- Tkinter package installed (`pip install tkinter`) if not already available.
+- Tkinter package installed (`sudo apt install python3-tk`) if not already available.
 - "pdfkit" package installed (`pip install pdfkit`) for exporting to PDF.
 
 ## Usage
